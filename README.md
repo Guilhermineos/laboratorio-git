@@ -6,7 +6,7 @@ Projeto simples para aprender Git.
 
 ## Aprendizados
 
-- Git init
+- Git init (branch)
 - Commit
 - Branch
 - Pull Request
